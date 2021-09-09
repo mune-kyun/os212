@@ -5,3 +5,9 @@ ZCZC W00 240 L10 Assignment #00 (Setting up GitHub repo, log TXT file, index.htm
 ZCZC W00 90 L05 Quiz related (Studying for Quiz)
 ZCZC W00 240 L99 Other (Setup laptop for development)
 ZCZC W00 240 L70 Studying for other courses
+ZCZC W01 600 L31 Wasted time setting virtualbox on ubuntu (FAILED)
+ZCZC W01 60 L11 Assignment #01
+ZCZC W01 60 L12 Assignment #02
+ZCZC W01 60 L13 Assignment #03
+ZCZC W01 60 L14 Assignment #04
+ZCZC W01 60 L15 Assignment #05
