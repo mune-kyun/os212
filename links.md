@@ -5,10 +5,26 @@ permalink: /LINKS/
 
 # Links
 - awk 
-  - https://www.youtube.com/watch?v=jJ02kEETw70
+  - Basic awk
+      https://www.youtube.com/watch?v=jJ02kEETw70
+
 - grep
-  - https://www.youtube.com/watch?v=VGgTmxXp7xQ
+  - Basic grep
+      https://www.youtube.com/watch?v=VGgTmxXp7xQ
+
 - regex
-  - https://www.youtube.com/watch?v=KJG1dETacLI
+  - Basic regex
+      https://www.youtube.com/watch?v=KJG1dETacLI
+      https://www.youtube.com/watch?v=sa-TUpSx1JA&t=297s
+
 - sed
-  - https://www.youtube.com/watch?v=32waL1Z9XK0
+  - Basic sed
+      https://www.youtube.com/watch?v=32waL1Z9XK0
+
+- vi/vim
+  - Basic vi
+      https://www.youtube.com/watch?v=ggSyF1SVFr4
+
+- OS
+  - Crash course
+      https://www.youtube.com/watch?v=26QPDBe-NB8

@@ -15,3 +15,16 @@ ZCZC W01 15 L16 Assignment #06
 ZCZC W01 15 L17 Assignment #07
 ZCZC W01 120 L18 Assignment #08
 ZCZC W01 180 L19 Assignment #09
+ZCZC W02 300 L11 Assignment #01 (Read OSC)
+ZCZC W02 60 L12 Assignment #02 (Try C demos)
+ZCZC W02 300 L13 Assignment #03 (Watch Cyber Security Introduction)
+ZCZC W02 15 L14 Assignment #04 (Generate GnuPG Key Pair)
+ZCZC W02 1 L15 Assignment #05 (List all GnuPG Keys)
+ZCZC W02 1 L16 Assignment #06 (Import ospubkey.txt)
+ZCZC W02 1 L17 Assignment #07 (Sign public key)
+ZCZC W02 5 L18 Assignment #08 (Export public key)
+ZCZC W02 10 L19 Assignment #09 (Update Links)
+ZCZC W02 15 L20 Assignment #10 (Review peer links)
+ZCZC W02 15 L09 Assignment in General (Assignment #11 myscript.sh)
+ZCZC W02 15 L09 Assignment in General (Assignment #12 update log)
+ZCZC W02 15 L09 Assignment in General (Assignment #13 myscript.sh)
