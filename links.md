@@ -28,3 +28,8 @@ permalink: /LINKS/
 - OS
   - Crash course
       https://www.youtube.com/watch?v=26QPDBe-NB8
+
+- File System
+  - What is
+      https://www.howtogeek.com/196051/htg-explains-what-is-a-file-system-and-why-are-there-so-many-of-them/
+
