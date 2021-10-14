@@ -52,3 +52,10 @@ permalink: /LINKS/
 - Memory Paging
   - https://medium.com/@esmerycornielle/memory-management-paging-43b85abe6d2f
   - https://www.geeksforgeeks.org/paging-in-operating-system/
+
+- Fork
+  - https://www.geeksforgeeks.org/fork-system-call/
+
+- Concurrency vs Parallel
+  - https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/#:~:text=Concurrency%20is%20the%20task%20of,of%20running%20multiple%20computations%20simultaneously.&text=Concurrency%20increases%20the%20amount%20of%20work%20finished%20at%20a%20time.
+
