@@ -59,3 +59,11 @@ permalink: /LINKS/
 - Concurrency vs Parallel
   - https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/#:~:text=Concurrency%20is%20the%20task%20of,of%20running%20multiple%20computations%20simultaneously.&text=Concurrency%20increases%20the%20amount%20of%20work%20finished%20at%20a%20time.
 
+- Difference between wait() and sleep()
+  - https://stackoverflow.com/questions/1036754/difference-between-wait-and-sleep
+  - https://www.baeldung.com/java-wait-and-sleep
+
+- yield(), sleep(), join()
+  - https://www.geeksforgeeks.org/java-concurrency-yield-sleep-and-join-methods/
+
+
