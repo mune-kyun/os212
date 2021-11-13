@@ -66,4 +66,16 @@ permalink: /LINKS/
 - yield(), sleep(), join()
   - https://www.geeksforgeeks.org/java-concurrency-yield-sleep-and-join-methods/
 
+semaphore vs mutex
+https://afteracademy.com/blog/difference-between-mutex-and-semaphore-in-operating-system#:~:text=A%20mutex%20is%20an%20object%20but%20semaphore%20is%20an%20integer%20variable.&text=A%20mutex%20object%20allows%20multiple,of%20the%20resource%20until%20available.
+
+mutex
+https://www.geeksforgeeks.org/mutex-lock-for-linux-thread-synchronization/
+
+semaphore in java
+https://www.geeksforgeeks.org/semaphore-in-java/
+
+dining philosophers deadlock
+https://www.youtube.com/watch?v=_ruovgwXyYs
+
 

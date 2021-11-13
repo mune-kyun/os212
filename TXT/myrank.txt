@@ -18,3 +18,6 @@ ZCZC W06 Spacesick
 ZCZC W07 stndaru
 ZCZC W07 SyahdanPutra
 ZCZC W07 taufiqulmawarid
+ZCZC W08 veloraine
+ZCZC W08 vincentsuryakim
+ZCZC W08 vnctkevin
