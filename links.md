@@ -22,6 +22,9 @@ permalink: /LINKS/
     - Basic sed
         - https://www.youtube.com/watch?v=32waL1Z9XK0
 
+  - linux cmd
+    - useradd
+      - https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/
 
 - vi/vim
   - Basic vi
@@ -78,4 +81,9 @@ https://www.geeksforgeeks.org/semaphore-in-java/
 dining philosophers deadlock
 https://www.youtube.com/watch?v=_ruovgwXyYs
 
+Linux stuff:
+  - free up space
+    - https://itsfoss.com/free-up-space-ubuntu-linux/
 
+UEFI vs BIOS
+  - https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/
